@@ -17,18 +17,33 @@ body {
     position: fixed;
     z-index: 99;
     border-radius: 5px;
-
+    text-decoration: none;
 
 }
 
-.nolink:visited, .nolink:active, .nolink:link {
+.cellda{
 
-    text-decoration: none;
+    color: rgb(155, 155, 155);
 
 }
 
 .cellda:hover {
 
+    background-color: rgb(155, 155, 155);
+    color: white;
+
+}
+
+.nolink {
+
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+
+}
+
+.nolink:hover {
+
+    text-decoration: none;
     background-color: rgb(155, 155, 155);
     color: white;
 
