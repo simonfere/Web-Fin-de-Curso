@@ -1,1 +1,3 @@
 09/01/2023: Editar la fuente y el tamaño de letra del titulo del articulo.
+
+10/01/2023: Ahora index por tarjetas y página de login simple
