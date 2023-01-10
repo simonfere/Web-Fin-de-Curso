@@ -4,3 +4,11 @@ Música originaria de America: Los orígenes de la música en América del Sur s
 Música originaria de Oceania:  La música de Oceanía comprende tanto los países de Australia y Nueva Zelanda, así como la gran diversidad cultural de las islas del pacífico, que incluye Hawai, la Polinesia, Micronesia, y Melanesia, con culturas y zonas tan reconocidas como Papua Nueva Guinea, Indonesia, Samoa, Tonga, e incluso la isla de Pascua.
 Música originaria de Europa: La música tradicional en Centroeuropa recoge tantas variedades y matices como países y regiones. Siendo el centro de Europa el origen casi de la civilización humana, la cantidad de música originaria de aquí es casi infinita, pero por simplificar, citaremos ciertos estilos característicos tradicionales de algunos países.<br>
 Música originaria de Galicia: En la actualidad, con motivo de la popularización de las tradiciones musicales y de la naccesibilidad de la población hacia el saber y la aplicación de estos conocimientos, se está produciendo un auge en lo que a medios de difusión y enseñanza de las tradiciones musicales gallegas se refiere, y de su elemento...<br>
+
+
+africa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Africa_on_the_globe_%28red%29.svg/1200px-Africa_on_the_globe_%28red%29.svg.png
+asia: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Asia_on_the_globe_%28red%29.svg/1200px-Asia_on_the_globe_%28red%29.svg.png
+america: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Americas_on_the_globe_%28red%29.svg/1200px-Americas_on_the_globe_%28red%29.svg.png"
+Oceania: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Oceania_on_the_globe_%28red%29_%28Polynesia_centered%29.svg/1200px-Oceania_on_the_globe_%28red%29_%28Polynesia_centered%29.svg.png
+EUROPA: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Europe_on_the_globe_%28red%29.svg/1200px-Europe_on_the_globe_%28red%29.svg.png
+Galicia: https://www.red2000.com/spain/images/m-r-galicia.gif
