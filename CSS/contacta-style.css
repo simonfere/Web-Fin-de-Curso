@@ -15,8 +15,8 @@ body {
     left: 0;
     position: fixed;
     z-index: 99;
-    border-radius: 5px;
     text-decoration: none;
+    text-align: center;
 
 }
 
@@ -57,8 +57,40 @@ body {
 
 .botonesform {
 
-    width: 30px;
-    height: 10px;
+    border-radius: 5px;
+    cursor: pointer;
 
+
+}
+
+.formulario {
+
+    margin-top: 100px;
+    text-align: center;
+    font-family: monospace;
+
+
+}
+
+.spacingform {
+
+    border-spacing: 100px;
+
+}
+
+.cajaform {
+
+    border-radius: 4px;
+    font-size: 20px;
+    background-color: rgb(220, 220, 213);
+    border: 30px;
+    cursor: text;
+
+}
+
+.textform {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
 
 }
