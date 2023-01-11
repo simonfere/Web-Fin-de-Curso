@@ -5,4 +5,10 @@ EUROPA: <iframe width="944" height="531" src="https://www.youtube.com/embed/O9a8
 
 MEDIDAS: 533 x 300, https://tools.feline.cl/es/calculadora-de-proporciones/
 
-xoxo
+<div class="donaciones">
+        <form action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="hosted_button_id" value="MXM8NEKJJXU68" />
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" border="0" src="https://www.paypal.com/en_ES/i/scr/pixel.gif" width="1" height="1" />
+</div>    
+ </form>
