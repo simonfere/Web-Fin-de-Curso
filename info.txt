@@ -4,3 +4,5 @@ OCEANIA: <iframe width="533" height="300" src="https://www.youtube.com/embed/oFm
 EUROPA: <iframe width="944" height="531" src="https://www.youtube.com/embed/O9a8pVGa1Mo" title="Dolan's pub (Limerick, Ireland) - Irish Traditional Music Session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
 
 MEDIDAS: 533 x 300, https://tools.feline.cl/es/calculadora-de-proporciones/
+
+xoxo
