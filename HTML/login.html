@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="\CSS\contacta-style.css"/>
+    <link rel="stylesheet" href="\CSS\main-style.css"/>
     <meta charset="UTF-8">
     <link rel="shortcut icon" href="\FOTOS\iconoweb.png"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,30 +9,32 @@
     <title>Contacto</title>
 </head>
 <body>
-    <div class="upBarra">
-        <p>TradiMusic</p>
+    <div class="nolink">
+        <table class="upBarra">
+            <tr>
+                <td class="cellda"><img src="https://cdn-icons-png.flaticon.com/512/1913/1913235.png" alt="logo TradiMusic" class="logomenu"></td>
+                <td class="cellda"><p>TradiMusic</p></td>
+                <a href="\HTML\index.html" class="nolink"><td class="cellda">Inicio</td></a> 
+                <a href="\HTML\CAfrica.html" class="nolink"><td class="cellda">África</td></a>
+                <a href="\HTML\CAsia.html" class="nolink" ><td class="cellda">Asia</td></a>
+                <a href="\HTML\CAmerica.html" class="nolink" ><td class="cellda">América</td></a>
+                <a href="\HTML\COceania.html" class="nolink" ><td class="cellda">Oceanía</td></a>
+                <a href="\HTML\CEuropa.html" class="nolink" ><td class="cellda">Europa</td></a>
+                <a href="\HTML\CEspaña.html" class="nolink" ><td class="cellda">España</td></a>
+                <a href="\HTML\login.html" class="nolink" ><td class="cellda">Login</td></a>
+            </tr>
+        </table>
     </div>
-    <table class="mainmenu">
-        <tr>
-            <td><a href="\HTML\index.html">Inicio</a></td>  
-            <td><a href="\HTML\CAfrica.html">África</a></td>
-            <td><a href="\HTML\CAsia.html" >Asia</a></td>
-            <td><a href="\HTML\CAmerica.html" >América</a></td>
-            <td><a href="\HTML\COceania.html" >Oceanía</a></td>
-            <td><a href="\HTML\CEspaña.html" >España</a></td>
-            <td><a href="\HTML\CEuropa.html" >Europa</a></td>
-            <td><a href="\HTML\contacto.html" >Contacto</a></td>
-        </tr>
-    </table>
     <div class="formulario">
         <h1>Ponte en contacto con nosotros</h1>
         <form action="verqueponeraqui" method="get"> <!-- AQUI HAY QUE HACER QUE ESTOS DATOS SE GUARDEN EN UN SQL Y QUE LUEGO PUEDAN ACCEDER COMO USUARIO-->
             <p>Nombre: <input type="text" name="nombre" size="40" placeholder="Nombre"></p>
             <p>Email: <input type="email" name="email" size="20" placeholder="ejemplo@dominio.xx"></p>
             <p>Año de nacimiento: <input type="number" name="nacido" min="1900"></p>
+            <p>Username: <input type="text" name="username" placeholder="Nombre de Usuario"></p>
             <p>
-                <input type="submit"value="Enviar">
-                <input type="reset"value="Borrar">
+                <input type="submit"value="Enviar" class="botonesform">
+                <input type="reset"value="Borrar" class="botonesform">
             </p>
         </form>
     </div>
