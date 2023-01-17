@@ -28,8 +28,8 @@
     <div class="formulario">
         <h1>¡Ponte en contacto con nosotros!</h1>
         <form action="index.html" method="get" class="spacingform">
-            <p class="textform">Nombre: <input type="text" name="nombre" size="40" placeholder="Nombre" class="cajaform"></p>
-            <p class="textform">Email: <input type="email" name="email" size="20" placeholder="ejemplo@dominio.xx" class="cajaform"></p>
+            <p class="textform">Nombre: <input type="text" name="nombre" size="40" placeholder="Nombre" class="cajaform" required></p>
+            <p class="textform">Email: <input type="email" name="email" size="20" placeholder="ejemplo@dominio.xx" class="cajaform" required></p>
             <p class="textform">País de residencia: <select name="country" class="cajaform">
                 <option value="0">-- Selecciona un país --</option>
                 <option value="Albania">Albania</option>
@@ -271,7 +271,7 @@
                 </select></p>
             <p class="textform">Teléfono: <input type="tel" name="Teléfono" placeholder="Teléfono (con prefijo)" max="9" class="cajaform"></p>
             <p>
-                <input type="submit" value="Enviar" class="botonesform">
+                <input type="submit" value="Enviar" class="botonesform" r>
                 <input type="reset" value="Borrar" class="botonesform">
             </p>
         </form>
