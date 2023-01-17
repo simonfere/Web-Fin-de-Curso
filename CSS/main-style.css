@@ -84,9 +84,16 @@ body {
 
 }
 
+.titart {
+
+    text-decoration: none;
+    color: black;
+
+}
+
 .titart:hover {
 
-    color: red;
+    color: #717171;
 
 
 }
@@ -112,8 +119,8 @@ body {
 .footer {
 
     background-color: rgb(190, 190, 190);
-    bottom: 0;
-    height: 100%;
+    margin: 0%;
+    width: 100%;
     text-align: left;
 
 }
